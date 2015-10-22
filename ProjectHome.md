@@ -1,0 +1,1 @@
+This project provides an easy way to automate downloading of data tables from Google Webmaster Tools.
